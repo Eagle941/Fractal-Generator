@@ -1,7 +1,4 @@
 ...:::README:::...
---Matriculation number: s1443062
---Student name: Giuseppe Stratis Afentoulis
-
 
 To execute the program the following libraries have to be installed:
 ---base
@@ -12,6 +9,8 @@ There are four files:
 ---phi.hs -> The instructions for the first graph
 ---z2.hs --> The instructions for the second graph
 ---z3.hs --> The instructions for the third graph
+
+---This program is based on haskell-fractal program---
 
 To make the program start generating the image there are two steps:
 ---Open one of the three graph in ghci (phi.hs / z2.hs / z3.hs)
